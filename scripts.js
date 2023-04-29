@@ -256,6 +256,6 @@ console.log(result2);
 //and logs an error message to the console.
 
 //then I displayed the results of both calls to the
-//'calculateSum()' function using 'console.log()'.
+//'calculateSum()' function using 'console.log()'. week
 
 
